@@ -38,6 +38,7 @@ class Test extends Component {
                     history.push('/home')
                 }} type="primary">按钮</Button>
                 <Link to="/home">跳转</Link>
+                11111
                 detail
             </div>
         )
