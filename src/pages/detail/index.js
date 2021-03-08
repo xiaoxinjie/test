@@ -28,7 +28,7 @@ class Test extends Component {
 
     }
     componentWillUnmount() {
-        console.log('卸载')
+        console.log('卸载')  
     }
     render() {
         return (
